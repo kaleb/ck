@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/kaleb/ck.png)](http://travis-ci.org/kaleb/ck)
 a smaller, faster [coffeekup](https://github.com/mauricemach/coffeekup)
 
     $ cake bench
